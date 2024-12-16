@@ -13,7 +13,7 @@
 
 - 📅 Book a chat [here](https://calendly.com/einarmontalvo610/30min)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yvIx1fvfQbzn610jEMkSc7ScviUW52p5/view?usp=drive_link](https://drive.google.com/file/d/1yvIx1fvfQbzn610jEMkSc7ScviUW52p5/view?usp=drive_link])
+- 📄 Know about my experiences [https://drive.google.com/file/d/12Ktok063FgzuCghhfL-_ZY-uVZfytlU0/view?usp=sharing](https://drive.google.com/file/d/12Ktok063FgzuCghhfL-_ZY-uVZfytlU0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
