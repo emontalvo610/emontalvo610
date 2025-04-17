@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IT Solutions**
 
-- 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://https://emontalvo610.github.io/)
+- 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://emontalvo610.github.io/)
 
 - 📫 Reach out to me at **montalvoeinar669@gmail.com**
 
