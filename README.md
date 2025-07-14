@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emontalvo610" alt="einarmontalvo" /></a> </p>
 
-- 🔭 I’m currently working on **IT Solutions**
+- 🔭 I’m currently working on **Deloitte Digital**
 
 - 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://emontalvo610.github.io/)
 
