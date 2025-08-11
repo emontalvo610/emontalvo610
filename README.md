@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emontalvo610" alt="einarmontalvo" /></a> </p>
 
-- 🔭 I’m currently working on **Perplexity**
+- 🔭 I’m currently working on **Yellow Systems**
 
 - 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://emontalvo610.github.io/)
 
@@ -13,7 +13,7 @@
 
 - 📅 Book a chat [here](https://calendly.com/einarmontalvo610/30min)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pysWpGRp-RvYuSa-EHSu6L2dOLQ30rPx/view?usp=drive_link](https://drive.google.com/file/d/1pysWpGRp-RvYuSa-EHSu6L2dOLQ30rPx/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12FiVZ8idchrxzGXYDuRYgZr_lQurz9Hv/view](https://drive.google.com/file/d/12FiVZ8idchrxzGXYDuRYgZr_lQurz9Hv/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
