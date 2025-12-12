@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emontalvo610" alt="einarmontalvo" /></a> </p>
 
-- 🔭 I’m currently working on **Inoxoft**
+- 🔭 I’m currently working on **MindsDB**
 
 - 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://emontalvo610.github.io/)
 
-- 📫 Reach out to me at **montalvoeinar669@gmail.com**
+- 📫 Reach out to me at **einarmontalvo610@gmail.com**
 
 - 📅 Book a chat [here](https://calendly.com/einarmontalvo610/30min)
 
