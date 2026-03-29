@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://emontalvo610.github.io/)
 
-- 📫 Reach out to me at **einarm12110@gmail.com**
+- 📫 Reach out to me at **einarm1211@gmail.com**
 
 - 📅 Book a chat [here](https://calendly.com/einarm1211/30min)
 
