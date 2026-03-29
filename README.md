@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emontalvo610" alt="einarmontalvo" /></a> </p>
 
-- 🔭 I’m currently working on **MindsDB**
+- 🔭 I’m currently working on **OpenBet**
 
 - 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://emontalvo610.github.io/)
 
-- 📫 Reach out to me at **einarmontalvo610@gmail.com**
+- 📫 Reach out to me at **einarm12110@gmail.com**
 
-- 📅 Book a chat [here](https://calendly.com/einarmontalvo610/30min)
+- 📅 Book a chat [here](https://calendly.com/einarm1211/30min)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
