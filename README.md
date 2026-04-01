@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Einar Montalvo</h1>
+<h1 align="center">Hi 👋, I'm Einar M.</h1>
 <h3 align="center">Senior Software Engineer with 10 years professional experience.</h3>
 
 - 🔭 I’m currently working on **OpenBet**
