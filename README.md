@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **OpenBet**
 
-- 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://emontalvo610.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfolio-einar.vercel.app/)
 
 - 📫 Reach out to me at **einarm1211@gmail.com**
 
