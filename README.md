@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-einar.vercel.app/)
 
-- 📫 Reach out to me at **einarm1211@gmail.com**
+- 📫 Reach out to me at **meinar1222@gmail.com**
 
 - 📅 Book a chat [here](https://calendly.com/einarm1211/30min)
 
